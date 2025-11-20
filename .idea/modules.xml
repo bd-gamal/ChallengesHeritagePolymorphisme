@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimauxEtSons/AnimauxEtSons.iml" filepath="$PROJECT_DIR$/AnimauxEtSons/AnimauxEtSons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BanqueComptes/BanqueComptes.iml" filepath="$PROJECT_DIR$/BanqueComptes/BanqueComptes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChallengesHeritage.iml" filepath="$PROJECT_DIR$/.idea/ChallengesHeritage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployesEtSalaires/EmployesEtSalaires.iml" filepath="$PROJECT_DIR$/EmployesEtSalaires/EmployesEtSalaires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormesGeometrique/FormesGeometrique.iml" filepath="$PROJECT_DIR$/FormesGeometrique/FormesGeometrique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeuxVideoPersonnages/JeuxVideoPersonnages.iml" filepath="$PROJECT_DIR$/JeuxVideoPersonnages/JeuxVideoPersonnages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notifications/Notifications.iml" filepath="$PROJECT_DIR$/Notifications/Notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paiement/Paiement.iml" filepath="$PROJECT_DIR$/Paiement/Paiement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransportVehicules/TransportVehicules.iml" filepath="$PROJECT_DIR$/TransportVehicules/TransportVehicules.iml" />
+    </modules>
+  </component>
+</project>
